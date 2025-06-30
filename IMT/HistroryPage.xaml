@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="IMT.HistroryPage"
+             Title="История подсчетов">
+    <VerticalStackLayout Spacing="5">
+        <Button x:Name="toMainPage" Text="На главное меню" Clicked="toMainPage_Clicked"/>
+        <CollectionView x:Name="resultsView">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame Margin="15" Padding="15" BackgroundColor="{AppThemeBinding Light={StaticResource BackgroundColor}, Dark={StaticResource TextColor}}">
+                        <VerticalStackLayout Spacing="5">
+                            <Label Text="{Binding Date, StringFormat='Дата: {0:dd.MM.yyyy HH:mm}'}" />
+                            <Label Text="{Binding Weight, StringFormat='Вес: {0} кг'}" />
+                            <Label Text="{Binding Height, StringFormat='Рост: {0} м'}" />
+                            <Label Text="{Binding IMT, StringFormat='ИМТ: {0:F1}'}" />
+                        </VerticalStackLayout>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </VerticalStackLayout>
+</ContentPage>

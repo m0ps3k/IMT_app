@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Ввод данных"
+             x:Class="IMT.MainPage">
+
+    <VerticalStackLayout Spacing="5">
+        <Label Text="Рассчитать Ваш индекс массы тела!"/>
+        <Entry x:Name="weightEntry" Text="" Keyboard="Numeric" Placeholder="Введите вес (КГ)" PlaceholderColor="{StaticResource TextColor}"/>
+        <Entry x:Name="heightEntry" Text="" Keyboard="Numeric" Placeholder="Введите рост (СМ)" PlaceholderColor="{StaticResource TextColor}"/>
+        <Label Text="Укажите ваш пол:"/>
+        <HorizontalStackLayout>
+            <RadioButton GroupName="gender" Content="Мужской" IsChecked="True"/>
+            <RadioButton GroupName="gender" Content="Женский"/>
+        </HorizontalStackLayout>
+        <Button x:Name="goToResult" Text="Рассчитать" Clicked="goToResult_Clicked">
+            <Button.Triggers>
+                <DataTrigger TargetType="Button" Binding="{Binding Source={x:Reference weightEntry}, Path=Text.Length}" Value="0">
+                    <Setter Property="IsEnabled" Value="False"/>
+                    <Setter Property="BackgroundColor" Value="LightGray" />
+                    <Setter Property="TextColor" Value="Gray" />
+                </DataTrigger>
+                <DataTrigger TargetType="Button" Binding="{Binding Source={x:Reference heightEntry}, Path=Text.Length}" Value="0">
+                    <Setter Property="IsEnabled" Value="False"/>
+                    <Setter Property="BackgroundColor" Value="LightGray" />
+                    <Setter Property="TextColor" Value="Gray" />
+                </DataTrigger>
+            </Button.Triggers>
+        </Button>
+        <Button x:Name="goToHistrory" Text="История подсчетов" Clicked="goToHistrory_Clicked"/>
+    </VerticalStackLayout>
+</ContentPage>

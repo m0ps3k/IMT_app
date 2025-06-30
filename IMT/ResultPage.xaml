@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="IMT.ResultPage"
+             Title="Результаты ИМТ">
+
+    <VerticalStackLayout Spacing="5">
+        <Image x:Name="imageResult" Source="imt_risunok.png" HeightRequest="350"/>
+        <Label x:Name="IMTResult" HorizontalOptions="Center"/>
+        <Label x:Name="labelResult" HorizontalOptions="Center"/>
+        <HorizontalStackLayout Spacing="5" HorizontalOptions="Center">
+            <Button x:Name="toMainPage" Text="На главное меню" Clicked="toMainPage_Clicked"/>
+            <Button x:Name="saveResult" Text="Сохранить результат" Clicked="saveResult_Clicked"/>
+        </HorizontalStackLayout>
+    </VerticalStackLayout>
+
+</ContentPage>
