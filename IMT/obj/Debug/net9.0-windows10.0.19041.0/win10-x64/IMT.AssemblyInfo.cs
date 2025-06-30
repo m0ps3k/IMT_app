@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IMT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+259244bc8c37e696c0ee7fda0c209cb092d2a9c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+e5955be8dc7381eebb943d276cba488eabc4e479")]
 [assembly: System.Reflection.AssemblyProductAttribute("IMT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IMT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

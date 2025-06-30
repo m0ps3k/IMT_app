@@ -6,9 +6,11 @@ namespace IMT;
 public partial class ResultPage : ContentPage
 {
 	double Result, weight, height;
-	public ResultPage(double weight, double height)
+	public ResultPage(double weightD, double heightD)
 	{
 		InitializeComponent();
+        height = heightD;
+        weight = weightD;
 		height /= 100;
 		Result = Math.Round(weight / (height * height), 1);
 		IMTResult.Text = $"Трј ШЬв: {Result.ToString()}";
@@ -27,7 +29,7 @@ public partial class ResultPage : ContentPage
 
     private async void saveResult_Clicked(object sender, EventArgs e)
     {
-        var result = new IMTResults
+        IMTResults result = new IMTResults
         {
             Weight = weight, 
             Height = height,

@@ -3,8 +3,19 @@
   "WorkspaceRootPath": "D:\\study_practice\\IMT\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DF7C7304-168B-4BB3-B754-F7BFC686D365}|IMT\\IMT.csproj|d:\\study_practice\\imt\\imt\\resultpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7C7304-168B-4BB3-B754-F7BFC686D365}|IMT\\IMT.csproj|solutionrelative:imt\\resultpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7C7304-168B-4BB3-B754-F7BFC686D365}|IMT\\IMT.csproj|d:\\study_practice\\imt\\imt\\resultpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DF7C7304-168B-4BB3-B754-F7BFC686D365}|IMT\\IMT.csproj|solutionrelative:imt\\resultpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DF7C7304-168B-4BB3-B754-F7BFC686D365}|IMT\\IMT.csproj|d:\\study_practice\\imt\\imt\\imtclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF7C7304-168B-4BB3-B754-F7BFC686D365}|IMT\\IMT.csproj|solutionrelative:imt\\imtclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hicsw\\.nuget\\packages\\microsoft.maui.resizetizer\\9.0.51\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF7C7304-168B-4BB3-B754-F7BFC686D365}|IMT\\IMT.csproj|d:\\study_practice\\imt\\imt\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -15,20 +26,20 @@
       "RelativeMoniker": "D:0:0:{DF7C7304-168B-4BB3-B754-F7BFC686D365}|IMT\\IMT.csproj|solutionrelative:imt\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF7C7304-168B-4BB3-B754-F7BFC686D365}|IMT\\IMT.csproj|d:\\study_practice\\imt\\imt\\histrorypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF7C7304-168B-4BB3-B754-F7BFC686D365}|IMT\\IMT.csproj|solutionrelative:imt\\histrorypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF7C7304-168B-4BB3-B754-F7BFC686D365}|IMT\\IMT.csproj|d:\\study_practice\\imt\\imt\\imt_results.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF7C7304-168B-4BB3-B754-F7BFC686D365}|IMT\\IMT.csproj|solutionrelative:imt\\imt_results.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF7C7304-168B-4BB3-B754-F7BFC686D365}|IMT\\IMT.csproj|d:\\study_practice\\imt\\imt\\histrorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{DF7C7304-168B-4BB3-B754-F7BFC686D365}|IMT\\IMT.csproj|solutionrelative:imt\\histrorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF7C7304-168B-4BB3-B754-F7BFC686D365}|IMT\\IMT.csproj|d:\\study_practice\\imt\\imt\\resultpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF7C7304-168B-4BB3-B754-F7BFC686D365}|IMT\\IMT.csproj|solutionrelative:imt\\resultpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF7C7304-168B-4BB3-B754-F7BFC686D365}|IMT\\IMT.csproj|d:\\study_practice\\imt\\imt\\platforms\\windows\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}",
+      "RelativeMoniker": "D:0:0:{DF7C7304-168B-4BB3-B754-F7BFC686D365}|IMT\\IMT.csproj|solutionrelative:imt\\platforms\\windows\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF7C7304-168B-4BB3-B754-F7BFC686D365}|IMT\\IMT.csproj|d:\\study_practice\\imt\\imt\\resultpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DF7C7304-168B-4BB3-B754-F7BFC686D365}|IMT\\IMT.csproj|solutionrelative:imt\\resultpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{DF7C7304-168B-4BB3-B754-F7BFC686D365}|IMT\\IMT.csproj|d:\\study_practice\\imt\\imt\\histrorypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7C7304-168B-4BB3-B754-F7BFC686D365}|IMT\\IMT.csproj|solutionrelative:imt\\histrorypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF7C7304-168B-4BB3-B754-F7BFC686D365}|IMT\\IMT.csproj|d:\\study_practice\\imt\\imt\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,13 +56,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DF7C7304-168B-4BB3-B754-F7BFC686D365}|IMT\\IMT.csproj|d:\\study_practice\\imt\\imt\\platforms\\windows\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{DF7C7304-168B-4BB3-B754-F7BFC686D365}|IMT\\IMT.csproj|solutionrelative:imt\\platforms\\windows\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF7C7304-168B-4BB3-B754-F7BFC686D365}|IMT\\IMT.csproj|d:\\study_practice\\imt\\imt\\platforms\\windows\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}",
-      "RelativeMoniker": "D:0:0:{DF7C7304-168B-4BB3-B754-F7BFC686D365}|IMT\\IMT.csproj|solutionrelative:imt\\platforms\\windows\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hicsw\\.nuget\\packages\\microsoft.maui.resizetizer\\9.0.51\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -61,25 +65,24 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\study_practice\\IMT\\IMT\\App.xaml",
               "RelativeDocumentMoniker": "IMT\\App.xaml",
               "ToolTip": "D:\\study_practice\\IMT\\IMT\\App.xaml",
               "RelativeToolTip": "IMT\\App.xaml",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-06-30T09:23:20.569Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "D:\\study_practice\\IMT\\IMT\\App.xaml.cs",
               "RelativeDocumentMoniker": "IMT\\App.xaml.cs",
@@ -88,8 +91,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T09:23:19.846Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -101,7 +103,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
+              "Title": "imt_results.json",
+              "DocumentMoniker": "D:\\study_practice\\IMT\\IMT\\imt_results.json",
+              "RelativeDocumentMoniker": "IMT\\imt_results.json",
+              "ToolTip": "D:\\study_practice\\IMT\\IMT\\imt_results.json",
+              "RelativeToolTip": "IMT\\imt_results.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-30T15:25:15.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Microsoft.Maui.Resizetizer.After.targets",
               "DocumentMoniker": "C:\\Users\\hicsw\\.nuget\\packages\\microsoft.maui.resizetizer\\9.0.51\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
               "ToolTip": "C:\\Users\\hicsw\\.nuget\\packages\\microsoft.maui.resizetizer\\9.0.51\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
@@ -111,32 +125,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "IMTClass.cs",
               "DocumentMoniker": "D:\\study_practice\\IMT\\IMT\\IMTClass.cs",
               "RelativeDocumentMoniker": "IMT\\IMTClass.cs",
               "ToolTip": "D:\\study_practice\\IMT\\IMT\\IMTClass.cs",
               "RelativeToolTip": "IMT\\IMTClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T11:31:06.828Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "Package.appxmanifest",
               "DocumentMoniker": "D:\\study_practice\\IMT\\IMT\\Platforms\\Windows\\Package.appxmanifest",
               "RelativeDocumentMoniker": "IMT\\Platforms\\Windows\\Package.appxmanifest",
               "ToolTip": "D:\\study_practice\\IMT\\IMT\\Platforms\\Windows\\Package.appxmanifest",
               "RelativeToolTip": "IMT\\Platforms\\Windows\\Package.appxmanifest",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
-              "WhenOpened": "2025-06-30T12:03:45.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T12:03:45.984Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "app.manifest",
               "DocumentMoniker": "D:\\study_practice\\IMT\\IMT\\Platforms\\Windows\\app.manifest",
               "RelativeDocumentMoniker": "IMT\\Platforms\\Windows\\app.manifest",
@@ -144,12 +157,11 @@
               "RelativeToolTip": "IMT\\Platforms\\Windows\\app.manifest",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
-              "WhenOpened": "2025-06-30T12:03:32.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T12:03:32.76Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "AndroidManifest.xml",
               "DocumentMoniker": "D:\\study_practice\\IMT\\IMT\\Platforms\\Android\\AndroidManifest.xml",
               "RelativeDocumentMoniker": "IMT\\Platforms\\Android\\AndroidManifest.xml",
@@ -160,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "HistroryPage.xaml.cs",
               "DocumentMoniker": "D:\\study_practice\\IMT\\IMT\\HistroryPage.xaml.cs",
               "RelativeDocumentMoniker": "IMT\\HistroryPage.xaml.cs",
@@ -168,12 +180,11 @@
               "RelativeToolTip": "IMT\\HistroryPage.xaml.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAIwCUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T10:47:08.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T10:47:08.519Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "HistroryPage.xaml",
               "DocumentMoniker": "D:\\study_practice\\IMT\\IMT\\HistroryPage.xaml",
               "RelativeDocumentMoniker": "IMT\\HistroryPage.xaml",
@@ -181,25 +192,24 @@
               "RelativeToolTip": "IMT\\HistroryPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-30T10:47:01.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T10:47:01.825Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "ResultPage.xaml.cs",
               "DocumentMoniker": "D:\\study_practice\\IMT\\IMT\\ResultPage.xaml.cs",
               "RelativeDocumentMoniker": "IMT\\ResultPage.xaml.cs",
               "ToolTip": "D:\\study_practice\\IMT\\IMT\\ResultPage.xaml.cs",
               "RelativeToolTip": "IMT\\ResultPage.xaml.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAuwDcAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T10:03:18.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "ResultPage.xaml",
               "DocumentMoniker": "D:\\study_practice\\IMT\\IMT\\ResultPage.xaml",
               "RelativeDocumentMoniker": "IMT\\ResultPage.xaml",
@@ -212,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "D:\\study_practice\\IMT\\IMT\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "IMT\\MainPage.xaml.cs",
@@ -220,12 +230,11 @@
               "RelativeToolTip": "IMT\\MainPage.xaml.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAA4wBsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T09:23:08.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T09:23:08.326Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "D:\\study_practice\\IMT\\IMT\\MainPage.xaml",
               "RelativeDocumentMoniker": "IMT\\MainPage.xaml",
@@ -233,8 +242,7 @@
               "RelativeToolTip": "IMT\\MainPage.xaml",
               "ViewState": "AgIAAAEAAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-30T09:23:05.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T09:23:05.56Z"
             }
           ]
         }
