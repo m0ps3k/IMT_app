@@ -6,19 +6,39 @@ namespace IMT;
 public partial class ResultPage : ContentPage
 {
 	double Result, weight, height;
-	public ResultPage(double weightD, double heightD)
-	{
-		InitializeComponent();
+    public ResultPage(double weightD, double heightD)
+    {
+        InitializeComponent();
         height = heightD;
         weight = weightD;
-		height /= 100;
-		Result = Math.Round(weight / (height * height), 1);
-		IMTResult.Text = $"Ваш ИМТ: {Result.ToString()}";
-		if (Result < 18.6) labelResult.Text = "Недостаточность веса.";
-		else if (Result < 25) labelResult.Text = "Нормальный вес.";
-		else if (Result < 30) labelResult.Text = "Избыточный вес.";
-		else if (Result < 35) labelResult.Text = "Ожирение.";
-		else labelResult.Text = "Сильное ожирение.";
+        height /= 100;
+        Result = Math.Round(weight / (height * height), 1);
+        IMTResult.Text = $"Ваш ИМТ: {Result.ToString()}";
+        if (Result < 18.6)
+        {
+            labelResult.Text = "Недостаточность веса.";
+            imageResult.Source = "imt_risunok_1.png";
+        }
+        else if (Result < 25)
+        {
+            labelResult.Text = "Нормальный вес.";
+            imageResult.Source = "imt_risunok_2.png";
+        }
+        else if (Result < 30)
+        {
+            labelResult.Text = "Избыточный вес.";
+            imageResult.Source = "imt_risunok_3.png";
+        }
+        else if (Result < 35)
+        {
+            labelResult.Text = "Ожирение.";
+            imageResult.Source = "imt_risunok_4.png";
+        }
+        else
+        {
+            labelResult.Text = "Сильное ожирение.";
+            imageResult.Source = "imt_risunok_5.png";
+        }
     }
 
     async void toMainPage_Clicked(object sender, EventArgs e)

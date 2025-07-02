@@ -469,3 +469,13 @@ D:\study_practice\IMT\IMT\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\pri.res
 D:\study_practice\IMT\IMT\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt
 D:\study_practice\IMT\IMT\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 D:\study_practice\IMT\IMT\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+D:\study_practice\IMT\IMT\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\imt_risunok_1.scale-100.png
+D:\study_practice\IMT\IMT\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\imt_risunok_2.scale-100.png
+D:\study_practice\IMT\IMT\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\imt_risunok_3.scale-100.png
+D:\study_practice\IMT\IMT\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\imt_risunok_4.scale-100.png
+D:\study_practice\IMT\IMT\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\imt_risunok_5.scale-100.png
+D:\study_practice\IMT\IMT\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\r\imt_risunok_1.scale-100.png
+D:\study_practice\IMT\IMT\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\r\imt_risunok_2.scale-100.png
+D:\study_practice\IMT\IMT\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\r\imt_risunok_3.scale-100.png
+D:\study_practice\IMT\IMT\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\r\imt_risunok_4.scale-100.png
+D:\study_practice\IMT\IMT\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\r\imt_risunok_5.scale-100.png

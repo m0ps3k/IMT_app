@@ -5,7 +5,7 @@
              Title="Результаты ИМТ">
 
     <VerticalStackLayout Spacing="5">
-        <Image x:Name="imageResult" Source="imt_risunok.png" HeightRequest="350"/>
+        <Image x:Name="imageResult" HeightRequest="350"/>
         <Label x:Name="IMTResult" HorizontalOptions="Center"/>
         <Label x:Name="labelResult" HorizontalOptions="Center"/>
         <HorizontalStackLayout Spacing="5" HorizontalOptions="Center">

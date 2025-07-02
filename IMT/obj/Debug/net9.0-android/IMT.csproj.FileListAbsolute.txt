@@ -1365,3 +1365,8 @@ D:\study_practice\IMT\IMT\obj\Debug\net9.0-android\android\compressed_assemblies
 D:\study_practice\IMT\IMT\obj\Debug\net9.0-android\android\marshal_methods.arm64-v8a.o
 D:\study_practice\IMT\IMT\obj\Debug\net9.0-android\android\jni_remap.arm64-v8a.o
 D:\study_practice\IMT\IMT\obj\Debug\net9.0-android\app_shared_libraries\arm64-v8a\libxamarin-app.so
+D:\study_practice\IMT\IMT\obj\Debug\net9.0-android\resizetizer\r\drawable\imt_risunok_1.png
+D:\study_practice\IMT\IMT\obj\Debug\net9.0-android\resizetizer\r\drawable\imt_risunok_2.png
+D:\study_practice\IMT\IMT\obj\Debug\net9.0-android\resizetizer\r\drawable\imt_risunok_3.png
+D:\study_practice\IMT\IMT\obj\Debug\net9.0-android\resizetizer\r\drawable\imt_risunok_4.png
+D:\study_practice\IMT\IMT\obj\Debug\net9.0-android\resizetizer\r\drawable\imt_risunok_5.png
